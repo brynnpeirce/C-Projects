@@ -108,17 +108,19 @@ namespace ConsoleApp6
             Console.WriteLine("Enter item to search for: ");
             string UserSearch = Console.ReadLine();
 
-            foreach (string fruit in fruits)
+            for (int i = 0; i < fruits.Count; i++)
             {
-                if (UserSearch == "apple" || UserSearch == "pineapple" || UserSearch == "cherry")
+                if (fruits[i] == UserSearch)
                 {
-                    Console.WriteLine(UserSearch + " is in the list! Its at index " + fruits.IndexOf(UserSearch)); //outputs index of item choosen by user
+                    Console.WriteLine(i); //outputs index of item choosen by user
+                    Console.ReadLine();
                 }
 
                 if (UserSearch != "apple" && UserSearch != "pineapple" && UserSearch != "cherry") //if user enters item not in the list
                 {
                     Console.WriteLine(UserSearch + " is not in the list");
-               }  
+                }
+
 
             }
             Console.ReadLine();
