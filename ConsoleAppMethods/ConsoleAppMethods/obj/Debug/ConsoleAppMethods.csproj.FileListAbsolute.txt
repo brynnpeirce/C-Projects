@@ -1,0 +1,7 @@
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\ConsoleAppMethods.csproj.AssemblyReference.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\ConsoleAppMethods.csproj.CoreCompileInputs.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\ConsoleAppMethods\ConsoleAppMethods\bin\Debug\ConsoleAppMethods.exe.config
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\ConsoleAppMethods\ConsoleAppMethods\bin\Debug\ConsoleAppMethods.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\ConsoleAppMethods\ConsoleAppMethods\bin\Debug\ConsoleAppMethods.pdb
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\ConsoleAppMethods.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\ConsoleAppMethods.pdb
