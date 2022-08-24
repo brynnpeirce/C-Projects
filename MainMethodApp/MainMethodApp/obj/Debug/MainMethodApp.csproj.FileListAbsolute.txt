@@ -1,0 +1,7 @@
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.exe.config
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.pdb
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.csproj.AssemblyReference.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.pdb
