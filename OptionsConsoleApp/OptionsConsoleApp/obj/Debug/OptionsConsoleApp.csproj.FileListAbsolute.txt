@@ -1,0 +1,7 @@
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\OptionsConsoleApp\OptionsConsoleApp\bin\Debug\OptionsConsoleApp.exe.config
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\OptionsConsoleApp\OptionsConsoleApp\bin\Debug\OptionsConsoleApp.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\OptionsConsoleApp\OptionsConsoleApp\bin\Debug\OptionsConsoleApp.pdb
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\OptionsConsoleApp\OptionsConsoleApp\obj\Debug\OptionsConsoleApp.csproj.AssemblyReference.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\OptionsConsoleApp\OptionsConsoleApp\obj\Debug\OptionsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\OptionsConsoleApp\OptionsConsoleApp\obj\Debug\OptionsConsoleApp.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\OptionsConsoleApp\OptionsConsoleApp\obj\Debug\OptionsConsoleApp.pdb
