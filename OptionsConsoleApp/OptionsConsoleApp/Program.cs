@@ -20,7 +20,7 @@ namespace OptionsConsoleApp
                 Console.WriteLine("Enter a number: "); //Asking user for input
                 string userInput = Console.ReadLine();//saving input as a string
                 int Num = Convert.ToInt32(userInput);//converting input to an int
-                Console.WriteLine(math.MathOp(Num));
+                Console.WriteLine(math.MathOp(Num)); //1 parameter
             }
             if (userAnswer == "2")
             {
@@ -30,7 +30,7 @@ namespace OptionsConsoleApp
                 Console.WriteLine("Enter a 2nd number: ");
                 string userInput2 = Console.ReadLine();
                 int Num2 = Convert.ToInt32(userInput2);
-                Console.WriteLine(math.MathOp(Num, Num2));
+                Console.WriteLine(math.MathOp(Num, Num2)); //2 parameters 
             }
             if (userAnswer != "1" && userAnswer != "2")
             {
