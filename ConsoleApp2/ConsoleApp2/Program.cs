@@ -11,8 +11,9 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             myMath math = new myMath(); //instantiate class myMath
-
-            math.MathOp(9, 10); // calling method with 2 parameters
+            int num1 = 9;
+            int num2 = 10;
+            math.MathOp(num1, num2); // calling method with 2 parameters
             Console.ReadLine();
 
         }
