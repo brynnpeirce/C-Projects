@@ -1,0 +1,7 @@
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\People\People\bin\Debug\People.exe.config
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\People\People\bin\Debug\People.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\People\People\bin\Debug\People.pdb
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\People\People\obj\Debug\People.csproj.AssemblyReference.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\People\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\People\People\obj\Debug\People.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\People\People\obj\Debug\People.pdb
