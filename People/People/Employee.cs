@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace People
 {
-    public class Employee : Person
+    public class Employee : Person //this calss inherits Person class
     {
-        public int Id { get; set; }
+        public int Id { get; set; } 
 
     }
 }
