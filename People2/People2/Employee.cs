@@ -17,7 +17,7 @@ namespace People2
 
         public void Quit()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("I QUIT!");
         }
     }
 }
