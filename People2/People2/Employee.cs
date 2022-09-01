@@ -6,13 +6,18 @@ using System.Threading.Tasks;
 
 namespace People2
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable //Employee class inherits Person class and IQuitable interface
     {
         public int Id { get; set; }
          
         public void EmployeeInfo()
         {
             Console.WriteLine(FirstName + " " + Id);
+        }
+
+        public void Quit()
+        {
+            throw new NotImplementedException();
         }
     }
 }

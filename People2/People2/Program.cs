@@ -10,6 +10,8 @@ namespace People2
     {
         public static void Main(string[] args)
         {
+            IQuittable quit = new Employee(); //polymorphism
+            quit.Quit();  //call method
             Employee name = new Employee();
             name.FirstName = "Sample";
             name.LastName = "Student";
