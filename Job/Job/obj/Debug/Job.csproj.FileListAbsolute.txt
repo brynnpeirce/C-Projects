@@ -1,0 +1,7 @@
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\Job\Job\bin\Debug\Job.exe.config
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\Job\Job\bin\Debug\Job.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\Job\Job\bin\Debug\Job.pdb
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\Job\Job\obj\Debug\Job.csproj.AssemblyReference.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\Job\Job\obj\Debug\Job.csproj.CoreCompileInputs.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\Job\Job\obj\Debug\Job.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\Job\Job\obj\Debug\Job.pdb
