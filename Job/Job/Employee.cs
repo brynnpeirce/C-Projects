@@ -26,9 +26,9 @@ namespace Job
         {
             if (emp1.Id.Equals(emp2.Id))
             {
-                return true;
+                return false;
             }
-            return false;
+            return true;
         }
 
     }
