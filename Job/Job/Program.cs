@@ -10,25 +10,84 @@ namespace Job
     {
         public static void Main(string[] args)
         {
-            Employee emp1 = new Employee();
-            emp1.Id = 1;
-            emp1.FirstName = "Brynn";
-            emp1.LastName = "Jackson";
+            List<Employee> employees = new List<Employee>();
 
-            Employee emp2 = new Employee();
-            emp2.Id = 2;
-            emp2.FirstName = "Macgregor";
-            emp2.LastName = "Peirce";
+            employees.Add(new Employee
+            {
+                FirstName = "Bob",
+                LastName = "Stevens",
+                Id = 1
+            });
+            employees.Add(new Employee
+            {
+                FirstName = "Joe",
+                LastName = "Jackson",
+                Id = 2
+            });
+            employees.Add(new Employee
+            {
+                FirstName = "Macgregor",
+                LastName = "Peirce",
+                Id = 3
+            });
+            employees.Add(new Employee
+            {
+                FirstName = "Amy",
+                LastName = "Smith",
+                Id = 4
+            });
+            employees.Add(new Employee
+            {
+                FirstName = "Sydney",
+                LastName = "Spear",
+                Id = 5
+            });
+            employees.Add(new Employee
+            {
+                FirstName = "Koda",
+                LastName = "James",
+                Id = 6
+            });
+            employees.Add(new Employee
+            {
+                FirstName = "David",
+                LastName = "Kunzler",
+                Id = 7
+            });
+            employees.Add(new Employee
+            {
+                FirstName = "Ruby",
+                LastName = "Jefferson",
+                Id = 8
+            });
+            employees.Add(new Employee
+            {
+                FirstName = "Brynn",
+                LastName = "Moss",
+                Id = 9
+            });
+            employees.Add(new Employee
+            {
+                FirstName = "Reagen",
+                LastName = "Short",
+                Id = 10
+            });
 
-            if (emp1 == emp2)
+            List<Employee> newList = employees.Where(x => x.FirstName.Equals("Joe")).ToList();
+            foreach(var x in newList)
             {
-                Console.WriteLine("Employee 1 is the same as Employee 2");
+                Console.WriteLine(newList);
             }
-            else
+            List<Employee> newList2 = employees.Where(x => x.Id > 5).ToList();
+            foreach (var x in newList2)
             {
-                Console.WriteLine("Employee 1 is not the same as Employee 2");
+                Console.WriteLine(newList2);
             }
+
+
             Console.ReadLine();
+
+            
         }
     }
 }
