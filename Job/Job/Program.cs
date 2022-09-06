@@ -68,7 +68,7 @@ namespace Job
             });
             employees.Add(new Employee
             {
-                FirstName = "Reagen",
+                FirstName = "Joe",
                 LastName = "Short",
                 Id = 10
             });
@@ -76,12 +76,12 @@ namespace Job
             List<Employee> newList = employees.Where(x => x.FirstName.Equals("Joe")).ToList();
             foreach(var x in newList)
             {
-                Console.WriteLine(newList);
+                Console.WriteLine(x.FirstName);
             }
             List<Employee> newList2 = employees.Where(x => x.Id > 5).ToList();
             foreach (var x in newList2)
             {
-                Console.WriteLine(newList2);
+                Console.WriteLine(x.Id);
             }
 
 
