@@ -73,11 +73,19 @@ namespace Job
                 Id = 10
             });
 
-            List<Employee> newList = employees.Where(x => x.FirstName.Equals("Joe")).ToList();
-            foreach(var x in newList)
+            List<Employee> newList = new List<Employee>();
+            foreach(Employee e in employees)
             {
-                Console.WriteLine(x.FirstName);
+                if (e.FirstName == "Joe")
+                {
+                    newList.Add(e);
+                }
             }
+            foreach(var Employee in newList)
+            {
+                Console.WriteLine(Employee.FirstName);
+            }
+
             List<Employee> newList2 = employees.Where(x => x.Id > 5).ToList();
             foreach (var x in newList2)
             {
