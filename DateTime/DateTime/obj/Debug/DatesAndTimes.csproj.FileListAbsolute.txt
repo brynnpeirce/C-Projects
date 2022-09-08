@@ -1,0 +1,7 @@
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\DateTime\DateTime\obj\Debug\DatesAndTimes.csproj.AssemblyReference.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\DateTime\DateTime\obj\Debug\DatesAndTimes.csproj.CoreCompileInputs.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\DateTime\DateTime\obj\Debug\DateTime.pdb
