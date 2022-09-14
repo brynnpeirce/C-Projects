@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CarInsurance.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -26,5 +27,8 @@ namespace CarInsurance.Controllers
 
             return View();
         }
+
+        
+        
     }
 }

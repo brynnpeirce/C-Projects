@@ -210,11 +210,12 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Table\Create.cshtml" />
-    <Content Include="Views\Table\Delete.cshtml" />
-    <Content Include="Views\Table\Details.cshtml" />
-    <Content Include="Views\Table\Edit.cshtml" />
-    <Content Include="Views\Table\Index.cshtml" />
+    <Content Include="Views\Insuree\Create.cshtml" />
+    <Content Include="Views\Insuree\Delete.cshtml" />
+    <Content Include="Views\Insuree\Details.cshtml" />
+    <Content Include="Views\Insuree\Edit.cshtml" />
+    <Content Include="Views\Insuree\Index.cshtml" />
+    <Content Include="Views\Admin\Admin.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
