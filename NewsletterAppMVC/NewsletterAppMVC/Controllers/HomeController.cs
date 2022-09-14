@@ -59,7 +59,7 @@ namespace NewsletterAppMVC.Controllers
             string queryString = @"SELECT Id, FirstName, LastName, EmailAddress, SocialsecurityNumber from Signups";
             List<NewsletterSignUp> signups = new List<NewsletterSignUp>();
 
-            using (SqlConnection connection = new SqlConnection(connectionString))
+            using (SqlConnection connection = new SqlConnection(connectionsString))
 
                 connection.Open();
             SqlDataReader reader = CommandBehavior.ExecuteReader();
