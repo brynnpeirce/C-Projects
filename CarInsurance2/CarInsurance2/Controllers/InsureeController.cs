@@ -50,7 +50,7 @@ namespace CarInsurance2.Controllers
         {
             insuree.Quote = 50m;
 
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year < 18)
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 18)
             {
                 insuree.Quote += 100m;
             }
@@ -125,7 +125,7 @@ namespace CarInsurance2.Controllers
         public ActionResult Edit([Bind(Include = "Id,FirstName,LastName,EmailAdress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType")] Insuree insuree)
         {
 
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year < 18)
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 18)
             {
                 insuree.Quote += 100m;
             }
