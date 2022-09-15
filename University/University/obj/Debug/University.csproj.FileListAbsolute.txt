@@ -1,0 +1,12 @@
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\bin\Debug\University.exe.config
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\bin\Debug\University.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\bin\Debug\University.pdb
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\bin\Debug\EntityFramework.dll
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\bin\Debug\EntityFramework.xml
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\obj\Debug\University.csproj.AssemblyReference.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\obj\Debug\University.csproj.CopyComplete
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\obj\Debug\University.exe
+C:\Users\brynn\OneDrive\Documents\GitHub\C-Projects\University\University\obj\Debug\University.pdb
