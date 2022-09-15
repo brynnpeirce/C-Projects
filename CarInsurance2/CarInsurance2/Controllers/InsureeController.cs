@@ -153,17 +153,18 @@ namespace CarInsurance2.Controllers
             {
                 insuree.Quote += 25m;
             }
-            if (insuree.SpeedingTickets < 1)
+            for (int i = 0; i < insuree.SpeedingTickets; i++)
             {
                 insuree.Quote += 10m;
             }
+                 
             if (insuree.DUI == true)
             {
-                insuree.Quote += 0.25m;
+                insuree.Quote *= 0.25m;
             }
             if (insuree.CoverageType == true)
             {
-                insuree.Quote += .5m;
+                insuree.Quote *= .5m;
             }
 
             if (ModelState.IsValid)
