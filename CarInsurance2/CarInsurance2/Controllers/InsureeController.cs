@@ -49,16 +49,17 @@ namespace CarInsurance2.Controllers
         public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAdress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
             insuree.Quote = 50m;
+            int Age = DateTime.Now.Year - insuree.DateOfBirth.Year;
 
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 18)
+            if (Age <= 18)
             {
                 insuree.Quote += 100m;
             }
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 19 - 25)
+            if (Age >= 19 && Age <= 25) ;
             {
                 insuree.Quote += 50m;
             }
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year > 25)
+            if (Age > 25)
             {
                 insuree.Quote += 25m;
             }
@@ -74,7 +75,7 @@ namespace CarInsurance2.Controllers
             {
                 insuree.Quote += 25m;
             }
-            if (insuree.CarModel == "911 Carrera")
+            if (insuree.CarModel == "911 Carrera" && insuree.CarMake == "Porsche")
             {
                 insuree.Quote += 25m;
             }
@@ -149,7 +150,7 @@ namespace CarInsurance2.Controllers
             {
                 insuree.Quote += 25m;
             }
-            if (insuree.CarModel == "911 Carrera")
+            if (insuree.CarModel == "911 Carrera" && insuree.CarMake == "Porsche")
             {
                 insuree.Quote += 25m;
             }
@@ -211,10 +212,6 @@ namespace CarInsurance2.Controllers
             base.Dispose(disposing);
         }
 
-        public ActionResult Admin()
-        {
-            return View(db.Insurees.ToList());
-        }
     }
 
 }
